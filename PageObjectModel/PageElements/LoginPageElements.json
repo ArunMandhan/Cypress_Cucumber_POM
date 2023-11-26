@@ -1,0 +1,17 @@
+{
+    "LoginPageLocators":
+    {
+        "username": "input[placeholder='Username']",
+        "password": "input[placeholder='Password']",
+        "btnSubmit": "button[type='submit']",
+        "lblMsg": "h6[class='oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module']"
+    },
+
+    "AdacitinLogin":
+    {
+        "username": "#username",
+        "password": "#password",
+        "btnLogin": "#login",
+        "expected": ".login_title_comm"
+    }
+}

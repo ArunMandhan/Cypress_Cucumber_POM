@@ -1,0 +1,14 @@
+{
+
+    "Location": "#location",
+    "Hotels" : "#hotels",
+    "RoomType": "#room_type",
+    "RoomCount": "#room_nos",
+    "CheckIn": "#datepick_in",
+    "CheckOut": "#datepick_out",
+    "AdRooms": "#adult_room",
+    "CdRomms": "#child_room",
+    "btnSub":"#Submit",
+    "btnReset": "#Reset",
+    "expected":"#location_0"
+}

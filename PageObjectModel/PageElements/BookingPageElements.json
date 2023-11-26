@@ -1,0 +1,17 @@
+{
+    "fname" : "#first_name",
+    "lname" : "#last_name",
+    "address" : "#address",
+    "ccNo": "#cc_num",
+    "ccType": "#cc_type",
+    "expiryDate":{
+        "month":"#cc_exp_month",
+        "year": "#cc_exp_year"
+    },
+    "Cvv" : "#cc_cvv",
+    "btnBook" : "#book_now",
+    "btnCancel" : "#cancel",
+    "expected" : ".login_title",
+    "Btnlogout" : "#logout"
+
+}

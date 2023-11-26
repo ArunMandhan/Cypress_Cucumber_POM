@@ -1,0 +1,6 @@
+{
+    "btnRadio": "#radiobutton_0",
+    "btnCon" : "#continue",
+    "btnCancel" : "#cancel",
+    "expected" : ".login_title > a"
+}

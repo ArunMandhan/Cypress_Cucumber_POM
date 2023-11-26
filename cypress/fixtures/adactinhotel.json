@@ -1,0 +1,27 @@
+{
+    "username":"Badiuzzaman",
+    "password":"Badiuzzaman",
+    "expected": "(Fields marked with Red asterix (*) are mandatory)",
+    
+    "location":"London",
+    "hotel":"Hotel Sunshine",
+    "type":"Double",
+    "count":"3 - Three",
+    "in":"07/09/2023",
+    "out":"10/10/2023",
+    "adult":"2 - Two",
+    "children":"3 - Three",
+    "verifylbl" : "Back",
+
+
+    "fname" : "Automation",
+    "lname" : "Testing",
+    "address" : "MECHES BLOCK 6 Near Karsaz Karachi",
+    "ccNo" : "1234567891234567",
+    "cctype" : "VISA",
+    "expmonth"  : "January",
+    "expyear" : "2013",
+    "cvv" : "45869",
+    "verifyBook" : "Booking Confirmation "
+    
+}
